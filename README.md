@@ -1,4 +1,4 @@
-# Assignment_Numerical_Techniques
+# Ising Model
 Assignment for Numerical Techniques: 1. Spin Ising Model 2. Diatomic Model
 
 
